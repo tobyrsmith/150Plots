@@ -1,0 +1,9 @@
+ 2065  cat results.csv | sed 's/.*(\([0-9]\{4\}\).*/\1/g' > XX
+ 2066  cat XX 
+ 2067  lss
+ 2068  cat results.csv 
+ 2069  man paste
+ 2070  paste results.csv XX 
+ 2071  paste results.csv XX  | sed 's/\t/,/g'
+ 2072  paste results.csv XX  | sed 's/\t/,/g' > TNO_Date.csv 
+
