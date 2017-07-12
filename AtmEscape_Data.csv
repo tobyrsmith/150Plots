@@ -1,0 +1,13 @@
+vesc,temp,name,color
+4.3,443,"Mercury","#00ff00"
+10.4,733,"Venus","#0000ff"
+11.2,288,"Earth","#0000ff"
+2.38,250,"Moon","#00ff00"
+5.0,223,"Mars","#0000ff"
+59.5,120,"Jupiter","#ff0000"
+35.6,89,"Saturn","#ff0000"
+21.3,53,"Uranus","#ff0000"
+23.3,54,"Neptune","#ff0000"
+1.1,40,"Pluto","#00ff00"
+2.64,89,"Titan","#0000ff"
+1.452,54,"Triton","#00ff00"
